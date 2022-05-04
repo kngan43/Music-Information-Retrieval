@@ -29,7 +29,7 @@ songs_df.drop(songs_df.tail(1).index,inplace=True)
 
 
 tags = []
-with open('dataset/yes_complete/tags.txt', 'r') as f:
+with open('../dataset/yes_complete/tags.txt', 'r') as f:
     for line in f.readlines():
         tags.append(line.rstrip())
 
