@@ -3,3 +3,5 @@ This github repo is a collaborated project for NEU CS6200:Information Retrieval.
 - Music Recommendation Based on Embedding
 - Music Recognizer
 - Genre Recognizer
+
+## Please check Essay.pdf for more info!
